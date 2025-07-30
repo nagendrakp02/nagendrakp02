@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there, I'm Nagendra K P</h1>
-  <h3>🚀 AI/ML Developer | Data Science Enthusiast | NLP</h3>
+  <h3>🚀 AI/ML Developer | Data Science Enthusiast</h3>
   <p>
     <a href="mailto:nagendrakp02@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
