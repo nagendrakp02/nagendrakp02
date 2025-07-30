@@ -60,6 +60,13 @@ A project integrating WordClouds and pyLDAvis for intuitive topic visualization.
 - NLP: LDA Topic Modeling Pipeline  
 🔗 [Project Repo](https://github.com/nagendrakp02/TopicModeling)
 
+
+### 📊 Safety Helmet Detection Model Based On Improved YOLO-M
+A project aims to detect helmets in images and videos using the YOLOv5 object detection algorithm
+- YOLO + MobileNet V3
+ 
+🔗 [Project Repo]([https://github.com/nagendrakp02/TopicModeling](https://github.com/nagendrakp02/Safety-Helmet-Detection-Model-Based-on-Improved-YOLO-M.git))
+
 ---
 
 ## 📖 Research Publication
